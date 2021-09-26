@@ -21,6 +21,7 @@
   <component name="ChangeListManager">
     <list default="true" id="0558273d-50d0-40d4-a52a-ad07fe57b389" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/gitremote/test/unit/test_whats_my_name.py" beforeDir="false" afterPath="$PROJECT_DIR$/gitremote/test/unit/test_whats_my_name.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/gitremote/whats_my_name.py" beforeDir="false" afterPath="$PROJECT_DIR$/gitremote/whats_my_name.py" afterDir="false" />
     </list>
@@ -167,6 +168,10 @@
     <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="WindowStateProjectService">
+    <state x="877" y="146" key="FileChooserDialogImpl" timestamp="1632076396678">
+      <screen x="0" y="0" width="1463" height="783" />
+    </state>
+    <state x="877" y="146" key="FileChooserDialogImpl/0.0.1463.783@0.0.1463.783" timestamp="1632076396678" />
     <state width="707" height="202" key="GridCell.Tab.0.bottom" timestamp="1632075331278">
       <screen x="0" y="0" width="1463" height="783" />
     </state>
